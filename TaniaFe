@@ -1,0 +1,82 @@
+<link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
+<link href="https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap" rel="stylesheet">
+<style>
+  .Color-cyan{
+    color: cyan;
+  }
+  h2{
+    text-align: center;
+    font-family: Lobster;
+    font-size: 40px;
+    font-style: solid;
+  }
+  body{
+    background-color: rgb(252, 225, 240);
+  }
+  .Ancho-imagen{
+    width: 400;
+  }
+  .border{
+    border-color: black;
+    border-style: solid;
+    border-width: 5px;
+    border-radius: 100%;
+  }
+  p {
+    font-size: 20px;
+    font-family: Roboto mono;
+  }
+  a {
+    font-family: Roboto mono;
+    font-size: 19px;
+  }
+  .Borgin {
+     margin: 0px 50px 0px 0px;
+  }
+  li {
+    font-family: Roboto mono;
+    font-size: 19;
+  }
+  .color-clarito{
+    color: blueviolet;
+  }
+  .mision-estilo {
+    font-size: 40;
+    font-family: Roboto mono;
+  }
+  h3 {
+    font-family: Lobster;
+    font-size: 38px;
+    text-align: left;
+  }
+  .Anchos-imagen{
+    width: 200px;
+  }
+</style>
+<h2>Tania Fe</h2>
+<h3>Mision</h3>
+<ul>
+<li><strong>Brindar a los clientes los mejores tratamientos para la piel y para el cuidado personal disponibles en un ambiente tranquilo y sereno para ayudar a desarrollar y mantener un estilo de vida.</strong></li>
+</ul>
+<ul>
+<li><strong>Profesional en belleza integral</strong></li>
+</ul>
+<img class="Ancho-imagen border Borgin"src="https://scontent-bog1-1.xx.fbcdn.net/v/t1.15752-9/174110084_445621756740790_7364028780508874891_n.png?_nc_cat=108&ccb=1-3&_nc_sid=ae9488&_nc_ohc=bLjIrizGoowAX-8Sa2H&_nc_ht=scontent-bog1-1.xx&oh=096e589bacab5829c9f29b28721209bd&oe=609F2267" alt="Tania fe">
+<h3>Vision</h3>
+<ul>
+  <li><strong>Convertirnos en un referente en el mercado a travez de la excelencia en la calidad, en la provicion de servicios de estetica y belleza refiriendose a los desafios de la inovacion, la actualizacion constante de los tratamientos y las inversiones.</strong></li>
+</ul>
+<h3>Servicios</h3>
+<ul>
+<li><strong>Manicura<strong></li>
+<li><strong>Pedicura</strong></li>
+<li>Corte dama y caballero</li>
+<li><strong>Cepillado</strong></li>
+<li><strong>Pestañas punto a punto</strong></li>
+<li><strong>Pigmentacion de cejas</strong></li>
+<li><strong>Depilacion</strong></li>
+<li><strong>Masajes Relajantes</strong></li>
+</ul>
+<p><strong>Contactanos con el numero aqui abajo, disfruta de nuestros servicios a domicilio</strong></p>
+<p><u>Celular: 3148060844</u></p>
+<img class="Anchos-imagen" src="https://es.logodownload.org/wp-content/uploads/2018/10/whatsapp-logo-11-1019x1024.png" alt="Whatsaap">
